@@ -1,0 +1,6 @@
+int id ; 
+id + = id || id && id + id - NUMCONST * ( ! id ) ; 
+5 + = id ; 
+float id , id , id ; 
+id = id + false 
+$id += id * 
