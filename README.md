@@ -1,0 +1,2 @@
+# Syntactic_analysis
+Basic Project on Compiler Design developed to understand how the compiler works. Main focus of this project is on the working of Syntactic Analysis. It is developed using the C language. To run this project. Open your linux terminal and type "gcc Compiler_Project.c" followed by "./a.out". Then enter the number of lines you want it to read. It reads the lines from the file.txt which can be edited as per your wish.
